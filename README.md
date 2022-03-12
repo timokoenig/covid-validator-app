@@ -1,4 +1,10 @@
-# CovidValidator App
+<img src="./assets/covid-validator-preview.png" alt="Logo Covid Validator" />
+
+<div align="center">
+
+![GitHub Workflow Status](https://img.shields.io/github/workflow/status/timokoenig/covid-validator-app/Build%20and%20run%20unit%20tests) [![GitHub issues](https://img.shields.io/github/issues/timokoenig/covid-validator-app)](https://github.com/timokoenig/covid-validator/issues) ![GitHub last commit](https://img.shields.io/github/last-commit/timokoenig/covid-validator-app)
+
+</div>
 
 A desktop application wrapper for [CovidValidator.app](https://covidvalidator.app)
 
