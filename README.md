@@ -27,6 +27,10 @@ npm run dev
 npm run build
 ```
 
+# Framework
+
+[Tauri](https://github.com/tauri-apps/tauri)
+
 ---
 
 <p align="center">Made with <span style="color: red">♥</span> for the community</p>
