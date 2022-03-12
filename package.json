@@ -1,0 +1,19 @@
+{
+  "name": "covid-validator-app",
+  "description": "Check EU Digitial Covid Certificates with ease and validate them against local or country rules.",
+  "repository": "https://github.com/timokoenig/covid-validator-app",
+  "author": "Timo Koenig <timo@timokoenig.com>",
+  "license": "Apache-2.0",
+  "private": false,
+  "scripts": {
+    "tauri": "tauri",
+    "tauricon": "tauricon"
+  },
+  "dependencies": {
+    "@tauri-apps/api": "^1.0.0-rc.2"
+  },
+  "devDependencies": {
+    "@tauri-apps/cli": "^1.0.0-rc.7",
+    "@tauri-apps/tauricon": "github:tauri-apps/tauricon"
+  }
+}
