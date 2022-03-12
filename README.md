@@ -8,6 +8,19 @@ Check EU Digitial Covid Certificates with ease and validate them against local o
 
 !IMPORTANT: This is an experimental project and not for production use, yet.
 
+## Getting Started
+
+```sh
+npm install
+npm run dev
+```
+
+## Build MacOS app
+
+```sh
+npm run build
+```
+
 ---
 
 <p align="center">Made with <span style="color: red">♥</span> for the community</p>
